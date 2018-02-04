@@ -16,7 +16,9 @@ ___
 
 [Link al proyecto en GlobalGameJam.org](https://globalgamejam.org/2018/games/bitbob)
 
-[Descarga del juego ejecutable (.zip)](https://github.com/kevinHernandez05/GameJamSantiago2018/blob/master/Ejecutable/bitbob.zip)
+[Descarga del juego ejecutable (.zip)](https://github.com/kevinHernandez05/GameJamSantiago2018/raw/master/Ejecutable/bitbob.zip)
+
+
 
 
 
