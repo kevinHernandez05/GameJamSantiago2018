@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 905c14eb8167ec3489e212e02d21cdde
+timeCreated: 1517105135
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plan G
+  fontNames:
+  - Plan G
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

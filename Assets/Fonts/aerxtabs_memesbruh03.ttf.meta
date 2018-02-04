@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3605d22f4ce6a2c43a04e37188c2b79c
+timeCreated: 1517105135
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aerx Tablets
+  fontNames:
+  - Aerx Tablets
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
