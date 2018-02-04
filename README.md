@@ -15,7 +15,8 @@ Al jugar, encarnas en el cuerpo de Bob, un repartidor de mensajes que necesita e
 ___
 
 [Link al proyecto en GlobalGameJam.org](https://globalgamejam.org/2018/games/bitbob)
-[Descarga del juego ejecutable (.zip)]()
+
+[Descarga del juego ejecutable (.zip)](https://github.com/kevinHernandez05/GameJamSantiago2018/blob/master/Ejecutable/bitbob.zip)
 
 
 
